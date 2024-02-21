@@ -1,2 +1,2 @@
 # reaction-bot
- A simpel Discord bot to pin messages with reactions
+ A simple Discord bot to pin messages with reactions

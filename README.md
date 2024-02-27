@@ -1,4 +1,4 @@
-# reaction-bot
+# pin-bot
  A simple Discord bot to pin messages with reactions
 
 `config.json`
